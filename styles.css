@@ -1,0 +1,62 @@
+body {
+	background: black;
+	font-family: "Mali", cursive;
+}
+
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.primera {
+	display: flex;
+}
+#cabecera {
+	padding-left: 8px;
+	margin: 0;
+	width: 370px;
+}
+#logo {
+	width: 50px;
+	height: 50px;
+	padding-right: 10px;
+}
+.segunda {
+	display: flex;
+	margin-top: 0;
+	margin-left: 5px;
+}
+p {
+	margin-top: 0;
+	text-align: left;
+}
+form {
+	margin-right: 2px;
+	padding-left: 4px;
+}
+
+input {
+	border: 0;
+	border-bottom: 1px solid;
+	font-family: "Mali", cursive;
+	font-size: 14px;
+}
+
+.tercera {
+	font-size: 14px;
+	margin-left: 5px;
+	margin-top: 0;
+	width: 50%;
+}
+.cuarta {
+	display: flex;
+	justify-content: center;
+}
+a {
+	background-color: #c0c0c0;
+	font-size: 14px;
+	color: black;
+	padding: 1 2 7 1;
+	text-decoration: none;
+}
